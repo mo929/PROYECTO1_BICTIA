@@ -1,0 +1,40 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: justify;
+
+
+}
+body{
+    background: turquoise;
+    background:url(../img/poesia-1.jpg)
+    
+
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+.contenedor-flex div{
+    width: 100px;
+    height: 100px;
+    background: lightcoral;
+    margin: 4%;
+}
+
+.contenedor-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.elemento {
+    width: 100%;
+    hyphens: 100PX;
+    text-align: center;
+
+}
